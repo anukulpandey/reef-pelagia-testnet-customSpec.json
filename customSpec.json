@@ -18810,36 +18810,13 @@
         "authorities": []
       },
       "staking": {
-        "validatorCount": 3,
-        "minimumValidatorCount": 3,
-        "invulnerables": [
-          "5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys",
-          "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
-          "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K"
-        ],
+        "validatorCount": 0,
+        "minimumValidatorCount": 0,
+        "invulnerables": [],
         "forceEra": "NotForcing",
         "slashRewardFraction": 100000000,
         "canceledPayout": 0,
-        "stakers": [
-          [
-            "5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys",
-            "5FLfCkuY5eHXZm93Dz4v4hxTW4ind9YgBNz155mxs4tcAWX5",
-            1000000000000000000000000,
-            "Validator"
-          ],
-          [
-            "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
-            "5FoZVz7Awr4Nu5Jk4EHjNaAKmqVST65EtwHRVrcBGFXWK9BG",
-            1000000000000000000000000,
-            "Validator"
-          ],
-          [
-            "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K",
-            "5G45P9YGt4LrssynbFLs9JVihqiBAPzURQ9CQLeNRusaLG9B",
-            1000000000000000000000000,
-            "Validator"
-          ]
-        ],
+        "stakers": [],
         "minNominatorBond": 0,
         "minValidatorBond": 0,
         "maxValidatorCount": null,
@@ -18855,36 +18832,6 @@
               "grandpa": "5FLfCkuY5eHXZm93Dz4v4hxTW4ind9YgBNz155mxs4tcAWX5",
               "im_online": "5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys",
               "authority_discovery": "5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys"
-            }
-          ],
-          [
-            "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
-            "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
-            {
-              "babe": "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
-              "grandpa": "5FoZVz7Awr4Nu5Jk4EHjNaAKmqVST65EtwHRVrcBGFXWK9BG",
-              "im_online": "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
-              "authority_discovery": "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx"
-            }
-          ],
-          [
-            "5EpjEx9y9bzGwfUcMFpbywXrQAd8gEgm9t1YK3exVdfabHt9",
-            "5EpjEx9y9bzGwfUcMFpbywXrQAd8gEgm9t1YK3exVdfabHt9",
-            {
-              "babe": "5EpjEx9y9bzGwfUcMFpbywXrQAd8gEgm9t1YK3exVdfabHt9",
-              "grandpa": "5Cde43GcMfibc6iWPcat9Hwo6YJBWzUSXr56RU7AfvBDM48o",
-              "im_online": "5EpjEx9y9bzGwfUcMFpbywXrQAd8gEgm9t1YK3exVdfabHt9",
-              "authority_discovery": "5EpjEx9y9bzGwfUcMFpbywXrQAd8gEgm9t1YK3exVdfabHt9"
-            }
-          ],
-          [
-            "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K",
-            "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K",
-            {
-              "babe": "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K",
-              "grandpa": "5G45P9YGt4LrssynbFLs9JVihqiBAPzURQ9CQLeNRusaLG9B",
-              "im_online": "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K",
-              "authority_discovery": "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K"
             }
           ]
         ]
