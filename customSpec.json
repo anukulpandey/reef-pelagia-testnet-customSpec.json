@@ -18858,19 +18858,19 @@
           [
             "5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys",
             "controller1",
-            100000000000000000000000000000,
+            "100000000000000000000000000000",
             "Validator"
           ],
           [
             "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
             "controller2",
-            100000000000000000000000000000,
+            "100000000000000000000000000000",
             "Validator"
           ],
           [
             "5HVWXk7derzRnAiGhuPn43VKaosYkx68mZuS9XHivVPG116K",
             "controller3",
-            100000000000000000000000000000,
+            "100000000000000000000000000000",
             "Validator"
           ]
         ],
