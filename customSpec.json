@@ -38,7 +38,15 @@
             100000000000000000000000000000
           ],
           [
+            "5FLfCkuY5eHXZm93Dz4v4hxTW4ind9YgBNz155mxs4tcAWX5",
+            100000000000000000000000000000
+          ],
+          [
             "5GgFqksuSJ619fzdpDuSE4fXPQAG9P3n1HhgzweDkc7sCRVx",
+            100000000000000000000000000000
+          ],
+          [
+            "5FoZVz7Awr4Nu5Jk4EHjNaAKmqVST65EtwHRVrcBGFXWK9BG",
             100000000000000000000000000000
           ],
           [
@@ -46,20 +54,16 @@
             100000000000000000000000000000
           ],
           [
+            "5G45P9YGt4LrssynbFLs9JVihqiBAPzURQ9CQLeNRusaLG9B",
+            100000000000000000000000000000
+          ],
+          [
             "5EpjEx9y9bzGwfUcMFpbywXrQAd8gEgm9t1YK3exVdfabHt9",
             100000000000000000000000000000
           ],
           [
-            "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+            "5Cde43GcMfibc6iWPcat9Hwo6YJBWzUSXr56RU7AfvBDM48o",
             100000000000000000000000000000
-          ],
-          [
-            "5CDo1enKQhb7EXYh91yfANuxRS7VdEfuHb8SxQRvw173jpPd",
-            100000000000000000000000000000
-          ],
-          [
-            "5CMDyQUxSJYFSvzonJ2VYubBe2FkvVy5TB4x8NtAyCTTytuD",
-            1000000000000000000000000000000
           ]
         ]
       },
@@ -18858,19 +18862,19 @@
           [
             "5G6qCzHmfKgk9W5QBidVndsbhXQ2PvfUDu1YKuizqfDP7j3y",
             "5GgRUrxDBQ7qfu1HhUwmFLrs4gBi1H1yCr1vFkc4tJfn1Vfr",
-            1000000000000000000000000,
+            100000000000000000,
             "Validator"
           ],
           [
             "5CDo1enKQhb7EXYh91yfANuxRS7VdEfuHb8SxQRvw173jpPd",
             "5FcXascAuJVK4pvsu7Re1ZjSBKV9AZr8GmFXEp1ctUhfnJG9",
-            1000000000000000000000000,
+            100000000000000000,
             "Validator"
           ],
           [
             "5DhJjhstioARfDCxe8FYBCkUNQ3G5Mg5K8ibGXNA7DYU3YwS",
             "5DLb4r2CfgWgsuAGspsQjPAvrDTu5JkmzVzVyyXX7dUoPa15",
-            1000000000000000000000000,
+            100000000000000000,
             "Validator"
           ]
         ],
