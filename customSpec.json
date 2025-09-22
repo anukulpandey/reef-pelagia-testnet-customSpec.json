@@ -3,7 +3,7 @@
   "id": "reef_testnet",
   "chainType": "Live",
   "bootNodes": [
-    "/dns/reef.host/tcp/30334/p2p/5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys"
+    "/dns/reef.host/tcp/30334/p2p/12D3KooWKYCUENhn9jE1pqY6ef5iFoRbGZTata79T2ZDFWKHpHMd"
   ],
   "telemetryEndpoints": [
     [
