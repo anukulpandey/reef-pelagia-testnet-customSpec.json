@@ -18810,13 +18810,21 @@
         "authorities": []
       },
       "staking": {
-        "validatorCount": 0,
-        "minimumValidatorCount": 0,
-        "invulnerables": [],
+        "validatorCount": 1,
+        "minimumValidatorCount": 1,
+        "invulnerables": [
+          "5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys"
+        ],
         "forceEra": "NotForcing",
         "slashRewardFraction": 100000000,
         "canceledPayout": 0,
-        "stakers": [],
+        "stakers": [
+          [
+            "5G9DMVnBiJmqFMoDak78yrsTgPXRQLj5hGUuQgxctWnRs8ys",
+            1000000000000,
+            "Validator"
+          ]
+        ],
         "minNominatorBond": 0,
         "minValidatorBond": 0,
         "maxValidatorCount": null,
